@@ -12,7 +12,7 @@ export class AppController {
 
   @Get('pussy')
   getPussy(): string {
-    return 'pussy ass bitchh';
+    return 'pussy ass gagfas';
   }
 
   @Get('raw')
