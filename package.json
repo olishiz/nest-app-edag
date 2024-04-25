@@ -1,8 +1,8 @@
 {
-  "name": "nest-app",
+  "name": "oliver-edag-nest-app",
   "version": "0.0.1",
-  "description": "",
-  "author": "",
+  "description": "This is a clone for the submodule of NEST student application.",
+  "author": "Oliver Sim",
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
